@@ -83,7 +83,7 @@ const casos = {
 Un asistente de IA que facilita el acceso a información de diseño mediante consultas en lenguaje natural, conectando Gemini con un repositorio centralizado en Google Sheets.`,
   year:"2026",
   tags:["Innovación con IA", "Design Ops", "Gestión del conocimiento"],
-  image:"images/bufi_02.png",
+  image:"images/Bufi_02.png",
   role:`==Senior Product Designer · Line Manager==
   **Responsabilidades principales:**
 
